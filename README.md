@@ -1,4 +1,4 @@
-# ocs_nanomsg_ext
+# ocs_open62541_ext
 OCS External package: Open Platform Communication - Unified Architecture (OPC-UA) Protocol
 
 ## Repository
