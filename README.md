@@ -7,4 +7,4 @@ Original source code copied from git repository <https://github.com/open62541/op
 
 ## Current Version
 
-New updates are commited on github.com/open62541 every week
+Cloned on April 2019. New updates every week on github.com/open62541
